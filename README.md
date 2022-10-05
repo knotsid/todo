@@ -1,1 +1,11 @@
-# todo
+![License](https://img.shields.io/github/license/knotsid/.svg?style=for-the-badge) ![Repo Size](https://img.shields.io/github/languages/code-size/knotsid/.svg?style=for-the-badge) ![TOP_LANGUAGE](https://img.shields.io/github/languages/top/knotsid/.svg?style=for-the-badge) ![FORKS](https://img.shields.io/github/forks/knotsid/.svg?style=for-the-badge&social) ![Stars](https://img.shields.io/github/stars/knotsid/.svg?style=for-the-badge)
+    
+# Todo
+
+## Description
+
+A minimalist todo list maker that will help you to keep track of your work.
+
+<img src="" />## Built With
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40px" width="40px" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40px" width="40px" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40px" width="40px" /></a>
